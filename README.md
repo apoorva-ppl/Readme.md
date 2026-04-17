@@ -62,7 +62,6 @@ const apoorva = {
 </div>
 
 <br/>
-
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -70,33 +69,68 @@ const apoorva = {
 <tr>
 <td width="50%">
 
-### 🧠 Semantic Textual Similarity
-> NLP model using **BERT** to measure sentence similarity with a clean Streamlit UI.
+### 🧠 Sentinel_GNN  
+> Graph Neural Network-based system for intelligent data analysis and pattern detection.
 
-![NLP](https://img.shields.io/badge/NLP-BERT-blueviolet?style=flat-square)
-![Streamlit](https://img.shields.io/badge/UI-Streamlit-FF4B4B?style=flat-square)
-![Transformer](https://img.shields.io/badge/Architecture-Transformer-orange?style=flat-square)
+![ML](https://img.shields.io/badge/ML-Graph%20Neural%20Network-blueviolet?style=flat-square)
+![Python](https://img.shields.io/badge/Language-Python-blue?style=flat-square)
 
-- Fine-tuned transformer-based model
-- Real-time similarity scoring
-- Clean, interactive Streamlit frontend
+- Built using advanced **GNN architecture**
+- Focused on **pattern recognition & insights**
+- Applied ML concepts on structured graph data  
+
+🔗 https://github.com/CodeR-6-9/Sentinel_GNN
 
 </td>
 <td width="50%">
 
-### 💡 AI-Powered Suite *(Upcoming 🚀)*
-> Series of intelligent apps built on modern NLP & ML.
+### 💼 SkillSetu  
+> Platform to bridge the gap between skills and opportunities.
 
-![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square)
+![Web](https://img.shields.io/badge/Web-Full%20Stack-green?style=flat-square)
 
-- **AskInsight** — Customer Feedback Analyzer
-- **NoteMind** — AI-powered Note Assistant
-- **SupportGenie** — Smart Ticket Categorizer
+- Focused on **career & skill development**
+- Designed for **real-world usability**
+- Built with modern web technologies  
+
+🔗 https://github.com/arkadeycns/SkillSetu
 
 </td>
 </tr>
+
 <tr>
 <td width="50%">
+
+### 📊 QUANTIX  
+> Data-driven project focused on analytics and intelligent insights.
+
+![Data](https://img.shields.io/badge/Data-Analytics-orange?style=flat-square)
+
+- Focus on **data analysis & interpretation**
+- Built for extracting **meaningful insights**
+- Applied analytical & problem-solving skills  
+
+🔗 https://github.com/CodeR-6-9/QUANTIX
+
+</td>
+<td width="50%">
+
+### 💸 driveMoney  
+> Smart financial/project-based application for managing or analyzing money-related data.
+
+![App](https://img.shields.io/badge/Application-Project-blue?style=flat-square)
+
+- Focus on **practical financial use-case**
+- Clean and structured implementation
+- Built with scalability in mind  
+
+🔗 https://github.com/apoorva-ppl/driveMoney
+
+</td>
+</tr>
+
+</table>
+</div>
 
 ### 🌐 Full Stack Projects
 > Modern web apps with real-world usability & deployment focus.
