@@ -198,9 +198,8 @@ goal: "Build impactful AI-driven products and grow as a Software Engineer with a
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-Drop_a_mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-&nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-See_my_DSA-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
+
+
 
 </div>
 
