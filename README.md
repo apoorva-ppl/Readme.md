@@ -24,7 +24,7 @@
 
 ```typescript
 const apoorva = {
-  title       : "B.Tech CS Student → Aspiring SDE",
+  title       : "B.Tech  Student →  Building at the intersection of AI & Software",
   superpower  : "Bridging ML research with real, shippable products",
   
   building    : ["Sentinel_GNN — Graph Neural Networks for pattern detection",
@@ -39,7 +39,7 @@ const apoorva = {
   },
 
   currently   : "Mastering DSA (Striver Sheet) + System Design basics",
-  goal        : "Land a top SDE internship & ship AI products people love",
+goal: "Build impactful AI-driven products and grow as a Software Engineer with an AI/ML focus."
   belief      : "Code > Theory. Ship > Perfect. Learn > Everything."
 };
 ```
