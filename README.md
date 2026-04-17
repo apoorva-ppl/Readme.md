@@ -145,18 +145,7 @@ const apoorva = {
 
 <br/>
 
-## 🎯 2025 Roadmap
 
-```
-[ ✅ ] Started ML with BERT & NLP
-[ ✅ ] Built Full Stack projects
-[ 🔄 ] Advanced DSA — Graphs & Dynamic Programming
-[ 🔄 ] System Design fundamentals
-[ 🔄 ] AI-powered fullstack applications
-[ 🎯 ] Crack a top SDE Internship
-[ 🎯 ] Deploy 3 impactful AI products
-[ 🎯 ] Contribute to Open Source
-```
 
 <br/>
 
