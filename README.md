@@ -10,10 +10,6 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=apoorva-ppl&style=flat-square&color=blueviolet&label=Profile+Views)](https://github.com/apoorva-ppl)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/apoorva-ppl?style=flat-square&color=blueviolet&label=Followers)](https://github.com/apoorva-ppl)
-&nbsp;
 
 
 </div>
