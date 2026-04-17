@@ -21,12 +21,10 @@
 const apoorva = {
   role: "Aspiring SDE | ML + Full Stack Developer",
   education: "B.Tech (Computer Science)",
-  location: "India 🇮🇳",
-  currentFocus: ["SDE Internship Prep", "NLP with BERT", "Full Stack Dev"],
-  learning: ["Advanced DSA", "System Design", "Node.js", "AI-powered apps"],
-  challenge: "Solving DSA daily on Striver Sheet + Contests",
+  location: "India",
+  learning: ["Problem Solving Skills", "System Design", "AI-powered apps"],
   goal: "Build impactful AI products that make real-world difference",
-  funFact: "I turn caffeine ☕ into code 💻"
+  funFact: "I enjoy turning ideas into working products."
 };
 ```
 
