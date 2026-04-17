@@ -46,7 +46,7 @@ const apoorva = {
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <div align="center">
 <table>
@@ -54,7 +54,7 @@ const apoorva = {
 <tr>
 <td width="50%" valign="top">
 
-### 🕸️ Sentinel_GNN
+###  Sentinel_GNN
 > **Graph Neural Network** system for intelligent pattern detection & data analysis.
 
 ![GNN](https://img.shields.io/badge/Architecture-Graph_Neural_Net-blueviolet?style=flat-square)
@@ -70,7 +70,7 @@ const apoorva = {
 </td>
 <td width="50%" valign="top">
 
-### 💼 SkillSetu
+###  SkillSetu
 > Full-stack platform **bridging the gap between skills and real opportunities**.
 
 ![Full Stack](https://img.shields.io/badge/Stack-Full_Stack_Web-green?style=flat-square)
@@ -88,7 +88,7 @@ const apoorva = {
 <tr>
 <td width="50%" valign="top">
 
-### 📊 QUANTIX
+###  QUANTIX
 > **Analytics engine** that transforms raw data into actionable intelligent insights.
 
 ![Analytics](https://img.shields.io/badge/Domain-Data_Analytics-F7931E?style=flat-square)
@@ -103,7 +103,7 @@ const apoorva = {
 </td>
 <td width="50%" valign="top">
 
-### 💸 driveMoney
+###  driveMoney
 > **Financial management app** built for practical, day-to-day usability.
 
 ![Finance](https://img.shields.io/badge/Domain-FinTech_Application-blue?style=flat-square)
@@ -161,7 +161,7 @@ const apoorva = {
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -177,18 +177,18 @@ const apoorva = {
 
 ---
 
-## 🎯 What I'm Focused On Right Now
+##  What I'm Focused On Right Now
 
 | Area | Status | Details |
 |------|--------|---------|
-| 🧠 Advanced DSA | 🔄 Active | Graphs, DP, Trees — Striver Sheet daily |
-| 🏗️ System Design | 📖 Learning | HLD/LLD basics, scalability patterns |
-| 🤖 ML Projects | 🚀 Building | GNN, NLP, AI-powered full-stack apps |
-| 💼 Internship Prep | 🎯 Target | SDE roles at product-based companies |
+| Advanced DSA |  Active |
+|  System Design |  Learning | HLD/LLD basics, scalability patterns |
+|  ML Projects |  Building | GNN, NLP, AI-powered full-stack apps |
+ Target |
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
