@@ -38,7 +38,7 @@ const apoorva = {
     languages  : ["Python", "C++", "JavaScript"],
   },
 
-  currently   : "Mastering DSA (Striver Sheet) + System Design basics",
+  currently   : "Mastering DSA and problem solving skills + System Design basics",
 goal: "Build impactful AI-driven products and grow as a Software Engineer with an AI/ML focus."
   belief      : "Code > Theory. Ship > Perfect. Learn > Everything."
 };
