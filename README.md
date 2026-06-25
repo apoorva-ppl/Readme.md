@@ -42,19 +42,21 @@ goal: "Build impactful AI-driven products and grow as a Software Engineer with a
 
 ---
 
-##  Featured Projects
+## Featured Projects
 
 <div align="center">
 <table>
 
 <tr>
 <td width="50%" valign="top">
-  
+
 ### ClearPath OS
 > **Enterprise-Grade Municipal Traffic Intelligence Platform** — ML-driven dispatch for Bengaluru.
+
 ![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/Frontend-React_18-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![LightGBM](https://img.shields.io/badge/ML-LightGBM_+_XGBoost-orange?style=flat-square)
+
 - **4-agent state machine** (Triage → Spatial → Logistics → Supervisor) with SSE async orchestration
 - **Geospatial Empathy** — PostGIS 500m radius overrides AI severity scores near hospitals & schools
 - God Mode command dashboard, live Leaflet.js map, model accountability debrief & bilingual complaint forum
@@ -64,8 +66,8 @@ goal: "Build impactful AI-driven products and grow as a Software Engineer with a
 
 </td>
 <td width="50%" valign="top">
-  
-###  Sentinel_GNN
+
+### Sentinel_GNN
 > **Graph Neural Network** system for intelligent pattern detection & data analysis.
 
 ![GNN](https://img.shields.io/badge/Architecture-Graph_Neural_Net-blueviolet?style=flat-square)
@@ -79,9 +81,12 @@ goal: "Build impactful AI-driven products and grow as a Software Engineer with a
 [![View Repo](https://img.shields.io/badge/→_View_Repository-0d1117?style=for-the-badge&logo=github)](https://github.com/CodeR-6-9/Sentinel_GNN)
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
-###  SkillSetu
+### SkillSetu
 > Full-stack platform **bridging the gap between skills and real opportunities**.
 
 ![Full Stack](https://img.shields.io/badge/Stack-Full_Stack_Web-green?style=flat-square)
@@ -94,12 +99,9 @@ goal: "Build impactful AI-driven products and grow as a Software Engineer with a
 [![View Repo](https://img.shields.io/badge/→_View_Repository-0d1117?style=for-the-badge&logo=github)](https://github.com/arkadeycns/SkillSetu)
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
-###  QUANTIX
+### QUANTIX
 > **Analytics engine** that transforms raw data into actionable intelligent insights.
 
 ![Analytics](https://img.shields.io/badge/Domain-Data_Analytics-F7931E?style=flat-square)
@@ -112,9 +114,12 @@ goal: "Build impactful AI-driven products and grow as a Software Engineer with a
 [![View Repo](https://img.shields.io/badge/→_View_Repository-0d1117?style=for-the-badge&logo=github)](https://github.com/CodeR-6-9/QUANTIX)
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
-###  driveMoney
+### driveMoney
 > **Financial management app** built for practical, day-to-day usability.
 
 ![Finance](https://img.shields.io/badge/Domain-FinTech_Application-blue?style=flat-square)
@@ -127,50 +132,11 @@ goal: "Build impactful AI-driven products and grow as a Software Engineer with a
 [![View Repo](https://img.shields.io/badge/→_View_Repository-0d1117?style=for-the-badge&logo=github)](https://github.com/apoorva-ppl/driveMoney)
 
 </td>
+<td width="50%" valign="top"></td>
 </tr>
 
 </table>
 </div>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages**
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**Backend & Dev Tools**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-**AI / ML**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![BERT](https://img.shields.io/badge/BERT_NLP-A855F7?style=for-the-badge)
-![GNN](https://img.shields.io/badge/Graph_Neural_Net-blueviolet?style=for-the-badge)
-
-</div>
-
----
 
 ## GitHub Stats
 
