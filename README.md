@@ -49,6 +49,18 @@ goal: "Build impactful AI-driven products and grow as a Software Engineer with a
 
 <tr>
 <td width="50%" valign="top">
+  
+### ClearPath OS
+> **Enterprise-Grade Municipal Traffic Intelligence Platform** — ML-driven dispatch for Bengaluru.
+![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/Frontend-React_18-61DAFB?style=flat-square&logo=react&logoColor=black)
+![LightGBM](https://img.shields.io/badge/ML-LightGBM_+_XGBoost-orange?style=flat-square)
+- **4-agent state machine** (Triage → Spatial → Logistics → Supervisor) with SSE async orchestration
+- **Geospatial Empathy** — PostGIS 500m radius overrides AI severity scores near hospitals & schools
+- God Mode command dashboard, live Leaflet.js map, model accountability debrief & bilingual complaint forum
+
+[![Live Demo](https://img.shields.io/badge/→_Live_Demo-Vercel-000000?style=for-the-badge&logo=vercel)](https://clear-path-os-apoorva-pandeys-projects-14145643.vercel.app)
+[![View Repo](https://img.shields.io/badge/→_View_Repository-0d1117?style=for-the-badge&logo=github)](https://github.com/apoorva-ppl/clearpath-os)
 
 ###  Sentinel_GNN
 > **Graph Neural Network** system for intelligent pattern detection & data analysis.
