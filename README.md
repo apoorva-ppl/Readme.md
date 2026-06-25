@@ -62,6 +62,9 @@ goal: "Build impactful AI-driven products and grow as a Software Engineer with a
 [![Live Demo](https://img.shields.io/badge/→_Live_Demo-Vercel-000000?style=for-the-badge&logo=vercel)](https://clear-path-os-apoorva-pandeys-projects-14145643.vercel.app)
 [![View Repo](https://img.shields.io/badge/→_View_Repository-0d1117?style=for-the-badge&logo=github)](https://github.com/apoorva-ppl/clearpath-os)
 
+</td>
+<td width="50%" valign="top">
+  
 ###  Sentinel_GNN
 > **Graph Neural Network** system for intelligent pattern detection & data analysis.
 
